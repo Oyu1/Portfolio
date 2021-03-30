@@ -1,0 +1,21 @@
+.navigation-bar {
+    background-color: transparent !important;
+    box-shadow: none;
+    position: fixed !important;
+    z-index: 2;
+}
+
+section {
+    height: 100vh;
+    width: 100%;
+    background-color: transparent !important;
+}
+
+body {
+    height: 100vh;
+}
+
+.hero {
+    padding-top: 224px;
+    overflow: hidden;
+}
